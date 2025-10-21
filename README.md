@@ -77,7 +77,7 @@ As a dedicated **Frontend & React Native Developer**, I thrive on transforming c
 | **Email Me** | **eng.rehamnasr1@gmail.com** |
 
 <p align="left">
-<a href="https://linkedin.com/in/reham-nasr" target="_blank">
+<a href="https://www.linkedin.com/in/reham-gamal-571aba20b/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 <a href="https://www.facebook.com/reham.gamal.407794/" target="_blank">
